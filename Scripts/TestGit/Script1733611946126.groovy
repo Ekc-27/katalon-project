@@ -32,33 +32,3 @@ WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - New Sessi
 
 WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Index Dashboard/a_Patients'))
 
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Index Dashboard/a_View All Patients'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Index Patient/a_Mr Patient 1058205'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Previous Repeating Visits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Current Repeating Visits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Index Dashboard/a_Patients'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Index Dashboard/a_View All Patients'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Index Patient/a_Mr Patient 1058205'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Previous Repeating Visits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Current Repeating Visits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Previous Visits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Suspend Visits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Archive Patient'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Archive Patient'))
-
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Archive Patient'))
-
-WebUI.closeBrowser()
-
