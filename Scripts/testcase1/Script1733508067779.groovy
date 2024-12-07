@@ -56,8 +56,9 @@ WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Pati
 
 WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Archive Patient'))
 
-WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Dashboard'))
+WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Archive Patient'))
 
+WebUI.click(findTestObject('Object Repository/Page_Civica Scheduling - Show Patient/a_Archive Patient'))
 
 WebUI.closeBrowser()
 
