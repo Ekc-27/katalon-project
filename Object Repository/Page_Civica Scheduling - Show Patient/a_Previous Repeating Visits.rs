@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Previous Repeating Visits</name>
+   <tag></tag>
+   <elementGuidId>7387a3c8-ff2c-472d-9927-4d4a20627d5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container-fluid']/div[4]/div[2]/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.orange_hover.previous_repeating_events</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Previous Repeating Visits&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9023c921-f78a-4ae5-956c-d30c376af311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>45c84525-29f2-48f0-9517-ead6a2c239b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#previous_repeating_events</value>
+      <webElementGuid>1571f02c-1cb9-4fe5-88fc-1d831fab9082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>59c5b952-fbe4-49f4-8f0d-3ece1a3e9e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orange_hover previous_repeating_events</value>
+      <webElementGuid>176722d1-b65b-4dc8-9e4f-5756f428bbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Previous Repeating Visits</value>
+      <webElementGuid>73614a32-b4c4-48ab-a40f-2494eda76706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-fluid&quot;)/div[@class=&quot;two-column&quot;]/div[@class=&quot;fat-column-right&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[5]/a[@class=&quot;orange_hover previous_repeating_events&quot;]</value>
+      <webElementGuid>5fe76439-d86f-4280-b6fc-b6f3809a00c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-fluid']/div[4]/div[2]/ul/li[5]/a</value>
+      <webElementGuid>caea0408-cb23-4141-a2eb-90254dc40120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Previous Repeating Visits')]</value>
+      <webElementGuid>2f07202b-8f38-49ac-bbd0-15466e81eed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Patient Contact'])[1]/following::a[6]</value>
+      <webElementGuid>de9c02b2-bf61-46e8-ac82-d096cc5cd12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Routine Care'])[1]/following::a[6]</value>
+      <webElementGuid>d6a024ed-fc41-43dc-a525-2c1d9040b60b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[2]/preceding::a[7]</value>
+      <webElementGuid>23b6c667-3fb0-45d8-8bb5-2e51705f1e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message for:'])[1]/preceding::a[7]</value>
+      <webElementGuid>e6dce7c1-3dcf-4ae9-a964-56516c835d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Previous Repeating Visits']/parent::*</value>
+      <webElementGuid>8c8e5ab1-3b6f-4161-b186-96e333641cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[16]</value>
+      <webElementGuid>c199cb65-3bb6-42fa-a855-098df685f0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[5]/a</value>
+      <webElementGuid>028cd464-0eff-4664-a73d-30a4759a3a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Previous Repeating Visits' or . = 'Previous Repeating Visits')]</value>
+      <webElementGuid>0f031260-733b-4b4b-93bd-4ce3df4cd0a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

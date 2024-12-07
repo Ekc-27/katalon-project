@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>given I go to
+Given I login to https://next.malinko-uat.co.uk/
+And I g to https://next.malinko-uat.co.uk/c/1056293
+Then I verify that the patient is named &quot;Patient 1056293&quot;</description>
+   <name>VerifyPatientName</name>
+   <tag>verifyPatientName</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d779a8f-15ac-412c-8341-ad6fe8e56ab9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Suspend Visits</name>
+   <tag></tag>
+   <elementGuidId>9f3411c0-aae5-4cf0-98f3-3c5ac103dbcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container-fluid']/div[4]/div[2]/ul/li[10]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(10) > a.orange_hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Suspend Visits&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4997b5ac-1859-4375-8a0a-aaf337656cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d0b04330-3738-4fa8-b0f4-0f875b39a6d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#suspend_events</value>
+      <webElementGuid>0231f601-90af-4e04-928e-67155542fe3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>f4f5d3e7-d4f8-454a-b619-eb1b99a1061b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orange_hover</value>
+      <webElementGuid>d83ca4d7-fc71-4b4c-9e9a-64882bed81c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suspend Visits</value>
+      <webElementGuid>49194bb1-1028-4509-a165-715b3b49b583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-fluid&quot;)/div[@class=&quot;two-column&quot;]/div[@class=&quot;fat-column-right&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[10]/a[@class=&quot;orange_hover&quot;]</value>
+      <webElementGuid>0c0c87e5-4e33-4fec-ad5d-5542013d174a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-fluid']/div[4]/div[2]/ul/li[10]/a</value>
+      <webElementGuid>1a8ae967-8ba4-497e-a54b-b9ad837852a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Suspend Visits')]</value>
+      <webElementGuid>c2038aa7-b621-41a8-850c-790f35f770fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Patient Contact'])[1]/following::a[11]</value>
+      <webElementGuid>787aa5f5-15ae-440d-bc45-ab44144748d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Routine Care'])[1]/following::a[11]</value>
+      <webElementGuid>4bfeaad9-d901-40b9-a56f-ad543271b6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[2]/preceding::a[2]</value>
+      <webElementGuid>f931fb39-0f6a-439b-914f-01e4ebedeb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message for:'])[1]/preceding::a[2]</value>
+      <webElementGuid>d16472f4-5053-4937-aeab-3eb92843232f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suspend Visits']/parent::*</value>
+      <webElementGuid>5d5c1e4f-ac77-4a31-a970-2ac99a89729f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[21]</value>
+      <webElementGuid>bea65462-2501-407c-b34b-ee250c5decad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[10]/a</value>
+      <webElementGuid>4de23699-a2c6-4768-9264-fa1caf0da0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Suspend Visits' or . = 'Suspend Visits')]</value>
+      <webElementGuid>ff79c6ba-d1d5-4329-88c8-d286cc929095</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

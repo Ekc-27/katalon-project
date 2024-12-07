@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_LONDONmilton keynesNorthSouth</name>
+   <tag></tag>
+   <elementGuidId>732c6afd-b798-43d8-8b0b-d95733b2c881</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='group']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ea57f399-4ad1-4dd0-ab7b-cc5e7e7cfb7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>5b2be8ef-8b63-4594-b17d-fca57c155f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>62dc2cc7-09db-4ecb-b05d-27e1a2166e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no_bottom_margin</value>
+      <webElementGuid>e2eac2f6-9384-4325-b411-6e424f6f5326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LONDON
+milton keynes
+North
+South</value>
+      <webElementGuid>35e69ec0-7b7f-4eb1-9de0-95ee7ff2a467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group&quot;)</value>
+      <webElementGuid>afa9b109-eaf1-4d33-8beb-7fbaad414066</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='group']</value>
+      <webElementGuid>aeb9aae2-759f-4bd2-a8f5-1c3040907c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_event']/div[4]/div/select</value>
+      <webElementGuid>70d3a847-75cb-4b5c-98d5-1a5106aa59b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Group'])[1]/following::select[1]</value>
+      <webElementGuid>d02832a9-7d32-4540-8fbc-48c0110a1677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patients'])[1]/following::select[1]</value>
+      <webElementGuid>83f6ec00-deb8-4753-95fa-e17bfd56dff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interventions'])[1]/preceding::select[1]</value>
+      <webElementGuid>87076b86-7916-47ea-95ff-505102268eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afternoon Visit'])[1]/preceding::select[1]</value>
+      <webElementGuid>9a2197a4-5cd6-46f7-a174-b5108a223a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>d7f0203d-ab90-4992-9b12-b82cbe5a58c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'group' and @id = 'group' and (text() = 'LONDON
+milton keynes
+North
+South' or . = 'LONDON
+milton keynes
+North
+South')]</value>
+      <webElementGuid>f20b5e59-adab-445c-92d5-777c0a62a9eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

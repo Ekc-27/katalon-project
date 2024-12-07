@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Hello, Aditee Ranade_East Midlands</name>
+   <tag></tag>
+   <elementGuidId>b56c907a-096c-4fe6-95b6-f7c656d611f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.welcome_message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard_container']/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5526633a-10ce-4a94-ac23-bafa981dff8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>welcome_message</value>
+      <webElementGuid>bfd4f9fd-acab-4131-9d43-b97f2451de8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello, Aditee Ranade_East Midlands!</value>
+      <webElementGuid>c6d1e14c-cf44-4a5a-a51e-e1e76401e98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard_container&quot;)/div[@class=&quot;top_dashboard_container&quot;]/h2[@class=&quot;welcome_message&quot;]</value>
+      <webElementGuid>f88aed2e-064b-48b8-b3d7-a0754a777fc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard_container']/div/h2</value>
+      <webElementGuid>a5330a99-5202-439d-890a-614c57554984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
+      <webElementGuid>ea315717-233e-43a7-8f81-fce846072908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to resolve now »'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2001ed72-6575-4b76-b060-e293f7be1106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello, Aditee Ranade_East Midlands!']/parent::*</value>
+      <webElementGuid>0b8beefa-f854-4b45-b22b-cccf51157f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>88f659cf-4904-43fc-b0b9-e1785a95e389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Hello, Aditee Ranade_East Midlands!' or . = 'Hello, Aditee Ranade_East Midlands!')]</value>
+      <webElementGuid>ff0784ff-1cd0-442c-8130-4eb68b8999e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

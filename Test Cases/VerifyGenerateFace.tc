@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Given I login to https://next.malinko-uat.co.uk/&#xd;
+And I go to https://next.malinko-uat.co.uk/c/1056293/e/new&#xd;
+And I fill in face to face visit and all the required details&#xd;
+And I click Generate Face to face visit and view&#xd;
+Then the visit should be made</description>
+   <name>VerifyGenerateFace</name>
+   <tag>generateFace</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87ea521c-9d0d-4e91-bf41-97377382efb5</testCaseGuid>
+</TestCaseEntity>

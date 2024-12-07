@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Given I go to https://next.malinko-uat.co.uk/
+And I type in login
+And I type in password
+Then I should be able to login</description>
+   <name>VerifyLoginPage</name>
+   <tag>LoginVerification</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7e94d49-918b-44a5-8297-b9d33233f674</testCaseGuid>
+</TestCaseEntity>
